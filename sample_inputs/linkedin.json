@@ -1,0 +1,27 @@
+{
+    "name":"John Doe",
+    "headline":"Senior Backend Engineer",
+    "location":"Bangalore, India",
+
+    "experience":[
+
+        {
+            "company":"Google",
+            "title":"Software Engineer",
+            "start":"2022-01",
+            "end":"Present"
+        }
+
+    ],
+
+    "education":[
+
+        {
+            "institution":"MIT",
+            "degree":"B.Tech",
+            "field":"Computer Science",
+            "end_year":2022
+        }
+
+    ]
+}

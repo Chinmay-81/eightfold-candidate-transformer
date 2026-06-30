@@ -1,0 +1,12 @@
+{
+    "login": "johndoe",
+    "name": "John Doe",
+    "bio": "Backend Developer",
+    "repos": 42,
+    "languages": [
+        "Python",
+        "Java",
+        "FastAPI"
+    ],
+    "html_url": "https://github.com/johndoe"
+}

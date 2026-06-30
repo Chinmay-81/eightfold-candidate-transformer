@@ -1,0 +1,25 @@
+eightfold-transformer/
+│
+├── app/
+│   ├── parsers/
+│   │   ├── recruiter_parser.py
+│   │   ├── resume_parser.py
+│   │   ├── github_parser.py
+│   │   └── linkedin_parser.py
+│   │
+│   ├── pipeline/
+│   │   ├── normalizer.py
+│   │   ├── merger.py
+│   │   ├── confidence.py
+│   │   ├── projection.py
+│   │   ├── validator.py
+│   │   └── pipeline.py
+│   │
+│   ├── schemas/
+│   ├── utils/
+│   └── main.py
+│
+├── sample_inputs/
+├── tests/
+├── requirements.txt
+└── README.md
